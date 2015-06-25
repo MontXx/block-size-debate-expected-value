@@ -1,0 +1,24 @@
+Legend,"1 ==",,
+"Likelihood of no global Bitcoin adoption",0.2,,
+"Likelihood of global Bitcoin adoption (Wizards)",0.4,,
+"Likelihood of global Bitcoin adoption (XT)",0.4,,
+,,,
+,,,
+"Expected Value (Wizards)",,,
+Description,Probability,"Payout (BTC)","EV (BTC)"
+"Freak adoption event cancellation: some would-be catalyst for ""Hyper-Bitcoinization"" is wasted because 1MB limits somehow block it from happening",0.001,-10500000,-10500
+"Altcoin beats Wizards' Bitcoin by using XT-like free flow full node standard that ends up never adversely affecting its adoption",0.4,-10500000,-4200000
+"Bitcoin wins with Wizards' simple full node core benefiting consumers and enterprise with faster and cheaper deployment along with superior privacy and security capabilities",0.4,21000000,8400000
+"Bitcoin and all other cryptocurrency fails",0.2,-21000000,-4200000
+,,,
+,,"EV (Wizards)",-10500
+,,,
+,,,
+"Expected Value (XT)",,,
+Description,Probability,"Payout (BTC)","EV (BTC)"
+"Cryptocurrency Is Regulated Out of Existence by Banks & Special Interest Groups",0.2,-21000000,-4200000
+"Altcoin beats Bitcoin by using Wizards' simple full node core benefiting consumers and enterprise with faster and cheaper deployment along with superior privacy and security capabilities",0.4,-10500000,-4200000
+"Bitcoin wins with XT-like free flow full node standard that ends up never adversely affecting its adoption ",0.4,21000000,8400000
+"Bitcoin and all other cryptocurrency fails",0.2,-21000000,-4200000
+,,,
+,,"EV (XT)",-4200000
